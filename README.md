@@ -19,3 +19,6 @@ Simple Calculator Using Python
 - Demo 
 
 ***You Can Demo From [here](Demo.mp4)***
+- **Calculator** 
+
+<img src="calculator.png" alt="Calculator">
