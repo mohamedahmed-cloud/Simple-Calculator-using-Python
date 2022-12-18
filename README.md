@@ -20,5 +20,9 @@ Simple Calculator Using Python
 
 ***You Can Demo From [here](Demo.mp4)***
 - **Calculator** 
+- [open](Calculator.png)
+<p>
 
-<img src="calculator.png" >
+<img src="calculator.png" alt="Calculator">
+
+</p>
