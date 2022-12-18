@@ -21,4 +21,4 @@ Simple Calculator Using Python
 ***You Can Demo From [here](Demo.mp4)***
 - **Calculator** 
 
-<img src="calculator.png" alt="Calculator">
+<img src="calculator.png" >
